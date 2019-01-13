@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TodayNews</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_news">news feeds not found</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">newest</string>
+
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <string name="settings_search_terms_label">Search Terms</string>
+    <string name="settings_search_terms_key">search_terms</string>
+    <string name="settings_search_terms_default">google</string>
+</resources>
