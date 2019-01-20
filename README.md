@@ -1,7 +1,7 @@
 # TodayNews
 A New Feed app
 ## About
-An Android news feed app, display the latest news via Guardian API to the user and gives preference option where the user can search for specific news terms and order the news based on latest, relevance, oldest.
+An Android news feed app, displays the latest news via Guardian API to the user and gives preference option where the user can search for specific news terms and order the news based on the latest, relevance, oldest.
 
 ## App Screenshots
 <table>
